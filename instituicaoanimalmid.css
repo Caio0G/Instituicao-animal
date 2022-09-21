@@ -1,0 +1,18 @@
+body{background-color: bisque;
+color: white;
+font-size: large;}
+#banner{text-align: center;
+width: 100%;}
+#topicoos{list-style: none;
+    padding: none;
+    background: black;}
+    #topicoos li{display: inline;}
+    #topicoos li a{color: white;
+    text-decoration: none;
+    padding: 25px;
+    display: inline-block;}
+    #topicoos li a:hover{background-color: aqua;}
+    #topicoos li a:visited{color: white;}
+    @media screen{max: width 700px;}
+    a:visited{color: ;}
+    
